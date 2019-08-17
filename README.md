@@ -1,5 +1,5 @@
-# Go Solution
+# Code Learn Solution
 
-Serve static files for Top Interview Questions on [leetcode](https://leetcode.com/problemset/all/?listId=wpwgkgt)
+Serve static files for problems on [codelearn.io](https://codelearn.io/Training/)
 
-View blog here https://vnspoj.github.io/top-interview-questions
+View blog here https://vnspoj.github.io/code-learn
