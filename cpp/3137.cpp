@@ -178,18 +178,12 @@ bool obtainPalindromicArray(vector<string> a) {
 
 #ifdef debug
 int main() {
-
     // cout << obtainPalindromicArray(
     //     vector<string>({"aa", "bab", "cde", "aba", "ab"}));
-
     // cout << obtainPalindromicArray(
     //     vector<string>({"ab", "aabba", "bb", "aba"}));
 
-    cout << obtainPalindromicArray(vector<string>({"oh", "aha", "ah", "oha"
-
-    }));
     EL;
-
     return 0;
 }
 #endif
