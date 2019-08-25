@@ -15,7 +15,7 @@ typedef pair<int, int> ii;
 // #define debug 1
 
 int exchangeMoney(std::vector<int> a, int x) {
-    int n = a.size();
+    int n = sz(a);
     int res = x;
     FOR(i, 0, n - 2) {
         int num = x / a[i];
@@ -31,8 +31,8 @@ int exchangeMoney(std::vector<int> a, int x) {
 int main() {
 
     cout << exchangeMoney(vi({978, 604, 888}), 385);
-
     EL;
     return 0;
 }
 #endif
+
