@@ -31,8 +31,8 @@ int exchangeMoney(std::vector<int> a, int x) {
 int main() {
 
     cout << exchangeMoney(vi({978, 604, 888}), 385);
+
     EL;
     return 0;
 }
 #endif
-
